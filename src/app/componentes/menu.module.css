@@ -1,7 +1,7 @@
 .cabecalho{
     display: flex;
     height: 100px;
-    background-color: rgb(176, 176, 180);
+    background-color: rgb(215, 215, 215);
 }
 
 .cabecalho h1{
